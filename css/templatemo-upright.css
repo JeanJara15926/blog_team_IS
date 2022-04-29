@@ -171,8 +171,8 @@ hr { border-top: 4px solid #CCC; }
 
 .nav-item:hover .nav-link,
 .nav-link.current {
-	background-color: #F2F2F2;
-	color: #006699;
+	background-color: #006699;
+	color: #fff;
 	padding-left: 30px;
 }
 
